@@ -1,0 +1,9 @@
+[
+  "vless://9963d87a-4b8d-4706-b170-59cd514bdb50@151.242.43.175:443?security=reality&encryption=none&type=tcp&sni=www.gosuslugi.ru&fp=chrome&flow=xtls-rprx-vision&pbk=LG11qKGJ8TbJcnMGOp_llts55IA4FmwewbBJQpyipEs#Reality-Gosuslugi",
+  "vless://9963d87a-4b8d-4706-b170-59cd514bdb50@151.242.43.175.nip.io:8443?type=ws&security=tls&path=/secret&sni=151.242.43.175.nip.io#WS-TLS",
+  "vless://9963d87a-4b8d-4706-b170-59cd514bdb50@151.242.43.175.nip.io:8444?type=grpc&security=tls&sni=151.242.43.175.nip.io&serviceName=#gRPC",
+  "ss://aes-256-gcm:mBKrHwiiyJJvj5ITSfEwgjJU00vytwSf@151.242.43.175:8445#SS-Classic",
+  "vless://9963d87a-4b8d-4706-b170-59cd514bdb50@151.242.43.175:8446?security=reality&encryption=none&type=tcp&sni=www.youtube.com&fp=chrome&flow=xtls-rprx-vision&pbk=N2bAkXnkctuqD4CXD8LOBh70_m4hPSCUUjFw5WG7Niw#Reality-YouTube",
+  "tuic://9963d87a-4b8d-4706-b170-59cd514bdb50:xWYLnSeeA3HBbHFNSx3Q44xWoZP3DU85@151.242.43.175.nip.io:8448?sni=151.242.43.175.nip.io&alpn=h3&congestion_control=bbr#TUIC",
+  "vless://9963d87a-4b8d-4706-b170-59cd514bdb50@151.242.43.175.nip.io:8449?type=xhttp&security=tls&path=/xhttp&sni=151.242.43.175.nip.io&mode=stream-up#XHTTP-Split"
+]
